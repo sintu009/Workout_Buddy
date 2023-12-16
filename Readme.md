@@ -1,6 +1,6 @@
 # Workout Buddy
 
-![Workout Buddy Logo](https://github.com/Anonymous961/Workout_Buddy/blob/main/logo.png)
+![Workout Buddy Logo]
 
 Welcome to Workout Buddy! This repository contains a full-stack fitness application built using the MERN (MongoDB, Express, React, Node.js) stack. The application is designed to assist you in achieving your fitness goals and maintaining a healthy lifestyle. Whether you're a beginner or an experienced fitness enthusiast, Workout Buddy is here to support you throughout your fitness journey.
 
